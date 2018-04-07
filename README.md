@@ -21,7 +21,7 @@ npm install webpack-dev-server@3.1.2
 npm run poc
 ```
 
-Browser crashes the app with
+Edit a file and save - Browser crashes the app with
 
 ```
 only-dev-server.js:9 Uncaught TypeError: Cannot read property 'indexOf' of undefined
